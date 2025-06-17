@@ -1,0 +1,1 @@
+class MyClass { void method(); }; int main() {}
